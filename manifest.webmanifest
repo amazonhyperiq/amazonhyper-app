@@ -1,0 +1,17 @@
+{
+  "name": "أمازون ماركت",
+  "short_name": "amazon market",
+  "description": "أمازون ماركت — تسوق من الموقع الإلكتروني بسهولة",
+  "lang": "ar-IQ",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f8f6",
+  "theme_color": "#0a7a3d",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
